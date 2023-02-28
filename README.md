@@ -22,15 +22,19 @@ https://reactnative.dev/docs/components-and-apis
 
 Check out App.js here in the code files for the computer algorithm code.
 
-![p](https://github.com/bell-kevin/modalGoalApp/blob/main/screen1.PNG)
-
-![p](https://github.com/bell-kevin/modalGoalApp/blob/main/screen2.PNG)
-
-![p](https://github.com/bell-kevin/modalGoalApp/blob/main/screen3.PNG)
-
-![p](https://github.com/bell-kevin/modalGoalApp/blob/main/screen4.PNG)
+Almost done:
 
 ![p](https://github.com/bell-kevin/completedGoalApp/blob/main/imageTarget.PNG)
+
+Done:
+
+![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenOne.PNG)
+
+![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenTwo.PNG)
+
+![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenThree.PNG)
+
+![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenFour.PNG)
 
 ## Reading: Storing Projects 
 
