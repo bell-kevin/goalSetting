@@ -9,6 +9,9 @@ function GoalInput(props) {
     }
 
     function addGoalHandler() {
+        if (enteredGoalText.trim().length === 0) {
+            return;
+        }
         props.onAddGoal(enteredGoalText);
         setEnteredGoalText('');
     }
@@ -28,7 +31,7 @@ function GoalInput(props) {
                         <Button title="Cancel" onPress={props.onCancel} color='pink' />
                     </View>
                     <View style={styles.button}>
-                        <Button title="Add goal" onPress={addGoalHandler} color='pink' />
+                        <Button title="Add goal" onPress={addGoalHandler} color='pink' disabled={enteredGoalText.trim().length === 0} />
                     </View>
                 </View>
             </View>
