@@ -30,7 +30,7 @@ Done:
 
 ![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenOne.PNG)
 
-![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenTwo.PNG)
+![p](https://github.com/bell-kevin/completedGoalApp/blob/main/validation.PNG)
 
 ![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenThree.PNG)
 
