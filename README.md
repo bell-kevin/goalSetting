@@ -22,12 +22,6 @@ https://reactnative.dev/docs/components-and-apis
 
 Check out App.js here in the code files for the computer algorithm code.
 
-Almost done:
-
-![p](https://github.com/bell-kevin/completedGoalApp/blob/main/imageTarget.PNG)
-
-Done:
-
 ![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenOne.PNG)
 
 ![p](https://github.com/bell-kevin/completedGoalApp/blob/main/validation.PNG)
@@ -35,6 +29,10 @@ Done:
 ![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenThree.PNG)
 
 ![p](https://github.com/bell-kevin/completedGoalApp/blob/main/screenFour.PNG)
+
+ScreenShots Mid-way into the project:
+
+![p](https://github.com/bell-kevin/completedGoalApp/blob/main/imageTarget.PNG)
 
 ## Reading: Storing Projects 
 
